@@ -2,7 +2,6 @@
 
 ![Iconos del Clima](gif.gif)
 
-Descripción del Proyecto:
 Iconos del Clima es un conjunto de animaciones en HTML y CSS que representan iconos de diferentes condiciones climáticas, como sol, lluvia, nubes y tormenta.
 
 ## Previsualización
