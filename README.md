@@ -1,52 +1,43 @@
-# Iconos del Clima
+# Weather Icons Creation with HTML and CSS
 
-![Iconos del Clima](gif.gif)
+![Weather Icons](gif1.gif)
 
-Iconos del Clima es un conjunto de animaciones en HTML y CSS que representan iconos de diferentes condiciones climáticas, como sol, lluvia, nubes y tormenta.
+This project demonstrates how to create animated icons to represent different weather conditions using pure HTML and CSS. Each icon is a visual representation of the weather and is designed with realistic details and animations.
 
-## Previsualización
+## Available Icons
 
-Para ver una previsualización de los iconos en acción, puedes ver este link de CodePen : (https://codepen.io/Eugenniart/pen/vYQVMKq).
+1. **Bright Sun (Sunny)**: A bright yellow sun with pulsing and glowing animations.
 
-## Instalación
+2. **Rain**: A set of raindrops falling from a cloud.
 
-Para utilizar los iconos en tu proyecto, sigue estos sencillos pasos:
+3. **Sun Between Clouds (Partly Cloudy)**: A yellow sun partially covered by a cloud with pulsing and glowing animations.
 
-1. Clona este repositorio en tu máquina local.
-2. Copia y pega los archivos HTML y CSS de los iconos que desees en tu proyecto.
-3. Personaliza los estilos según tus preferencias o necesidades.
+4. **Cloud**: A white cloud with lateral movement animations.
 
-## Uso
+5. **Storm**: A storm cloud with lightning and raindrops falling.
 
-Puedes usar estos iconos para:
+## How They Work
 
-- Mostrar el clima actual en tu sitio web.
-- Agregar efectos visuales atractivos para representar diferentes condiciones climáticas.
-- Mejorar la experiencia de los usuarios al visualizar información meteorológica.
+Each icon is created using HTML elements and styled with CSS. Animations are achieved using CSS keyframes to bring the icons to life. The code is organized into individual containers for each icon, and each container is displayed or hidden based on the current weather conditions.
 
-## Tecnologías
+## Customization
 
-El proyecto ha sido desarrollado utilizando las siguientes tecnologías:
+You can customize these icons by adjusting colors, sizes, and animations in the CSS code. Experiment with different styles to fit your specific design and needs.
 
-- HTML
-- CSS
+## Responsiveness
 
-## Contribuciones
+![Weather Icons](Captura1.png)
 
-¡Gracias por considerar contribuir a Iconos del Clima! Si deseas colaborar, sigue estos pasos:
+The weather icons are designed to be responsive and will adapt to different screen sizes. The project uses CSS media queries to ensure the icons look great on mobile devices, tablets, and desktop screens.
 
-1. Haz un fork de este repositorio.
-2. Crea una rama para tus cambios: `git checkout -b nueva-funcion`.
-3. Realiza tus modificaciones y realiza un commit: `git commit -m "Agrega nueva función"`.
-4. Haz un push a la rama: `git push origin nueva-funcion`.
-5. Abre una solicitud de extracción (pull request) en GitHub.
+## Contribution
 
-## Licencia
+If you want to contribute to this project or have ideas to enhance the weather icons, we are open to collaborations! Feel free to fork the repository, make improvements, and submit pull requests.
 
-Este proyecto se encuentra bajo la licencia MIT. Puedes consultar el archivo LICENSE para más detalles.
+## License
 
-## Contacto
+This project is distributed under the MIT License. Please refer to the [LICENSE.md](LICENSE.md) file for more details.
 
-Para cualquier consulta o sugerencia, no dudes en contactarme:
+---
 
-- Email: eugenia.toranza@gmail.com
+© Dev.Eugenius - [Link to GitHub Profile](https://github.com/deveugenius)
